@@ -1,0 +1,113 @@
+body
+{
+  background-color:#3f51b5 ;
+  color:White;
+  font-family: 'Thasadith', sans-serif;
+}
+input[type=text] {
+  width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=password] {
+  width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.log
+{
+  border-style: solid;
+  border-color: #3f51b5;
+  height:400px;
+  width:80%;
+  border-radius: 10px;
+  background: #B388FF;
+background: -moz-linear-gradient(left, #B388FF 0%, #7C4DFF 69%, #651FFF 100%);
+background: -webkit-linear-gradient(left, #B388FF 0%, #7C4DFF 69%, #651FFF 100%);
+background: linear-gradient(to right, #B388FF 0%, #7C4DFF 69%, #651FFF 100%);
+}
+.divc1{
+
+border-style:solid;
+  border-color: #EDE7F6;
+  height:400px;
+  width:80%;
+  border-radius: 5px;
+  background: #b388ff;
+
+}
+  
+}
+
+
+.btn{
+  background:none;
+  border: 0;
+ height:60;
+ box-shadow: none;
+ border-radius: 0px;
+color:#EDE7F6;
+}
+
+.by{
+    
+    display:block; 
+    height: 60px; 
+    width: 60px; 
+    border-radius: 50%; 
+    border: 1px solid  #01579B;
+    color: white;
+    text-size 10pt;
+    background-color: #01579B;
+    -webkit-box-shadow: 2px -1px 15px 5px rgba(1,87,155,0.64); 
+box-shadow: 2px -1px 15px 5px rgba(1,87,155,0.64);
+    }
+
+.by2{
+    
+    display:block; 
+    height: 50px; 
+    width: 50px; 
+    border-radius: 50%; 
+    border: 1px solid  #01579B;
+    color: white;
+    text-size 10pt;
+    background-color: #01579B;
+    -webkit-box-shadow: 2px -1px 15px 5px rgba(1,87,155,0.64); 
+box-shadow: 2px -1px 15px 5px rgba(1,87,155,0.64);
+    }
+
+.by3{
+    
+    display:block; 
+    height: 40px; 
+    width: 40px; 
+    border-radius: 50%; 
+    border: 1px solid  #01579B;
+    color: white;
+    text-size 10pt;
+    background-color: #01579B;
+    -webkit-box-shadow: 2px -1px 15px 5px rgba(1,87,155,0.64); 
+box-shadow: 2px -1px 15px 5px rgba(1,87,155,0.64);
+    }
+
+.vspace{
+    height: 10px;
+    color: #039BE5;
+    padding: 0px;
+    border: 0px;
+    }
+
+ul#menu li{
+    display:inline;
+    }
+.hide {
+  display: none;
+}
+
+a
+{
+decoration: none;
+}
