@@ -1,8 +1,8 @@
   $(document).ready(function() 
   { 
-  $("img").fadeIn(3000);
-  $("h3").fadeIn(5000);
-  $("img").fadeIn(7000);
-  $("ul").fadeIn(7500);
+  $("img").fadeIn(1000);
+  $("h3").fadeIn(1000);
+  $("img").fadeIn(1000);
+  $("ul").fadeIn(1000);
   
   });
