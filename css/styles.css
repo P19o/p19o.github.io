@@ -1,0 +1,27 @@
+body
+{
+  background-color:black;  
+  font-family: 'Arapey', serif;
+  color:#76FF03;
+  
+}
+
+.cl{
+  border: 2px solid White;
+  border-radius:50%;
+  height:100px;
+  width:100px;
+  text-align:center;
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(118,118,118,0.53); 
+box-shadow: 5px 5px 15px 5px rgba(118,118,118,0.53);
+
+}
+
+ul#menu li {
+  display:inline;
+}
+
+h3{
+  display:none;
+}
+
